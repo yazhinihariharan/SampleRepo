@@ -1,3 +1,4 @@
 a+b=c+d
 d+e=f
-f=g=h
+f+g=h
+
