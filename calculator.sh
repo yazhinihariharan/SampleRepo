@@ -6,6 +6,4 @@ j+k=l
 l+m=n
 n+o=p
 BUG_HERE_1+1=99
-p+q=r
-r+s=t
-t+u=v
+
